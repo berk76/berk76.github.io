@@ -1,6 +1,5 @@
 ---
 title: Hello World
-author: berk76
 date: 2022-12-27 11:30:00 +0100
 categories: [hello]
 tags: [hello_world]
