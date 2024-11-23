@@ -12,7 +12,7 @@ Let's try it out. First you will need to install c compiler for Windows. Probabl
 Clone project from GitHub
 
 ```
-git clone https://github.com/berk76/piskworks Piskworks
+git clone https://github.com/oldcompcz/piskworks Piskworks
 cd Piskworks
 ```
 
@@ -31,4 +31,4 @@ Now you can run it and try it out.
 
 ![Game over](/assets/gfx/piskworks/game-over.png){: w="662" h="383" }
 
-Gomoku is written in plain ISO C so it is possible to compile it and run it under Linux/Unix and even it is possible to build it for some old 8-bit computers. For more information see `README.md` file on [GitHub](https://github.com/berk76/piskworks).
+Gomoku is written in plain ISO C so it is possible to compile it and run it under Linux/Unix and even it is possible to build it for some old 8-bit computers. For more information see `README.md` file on [GitHub](https://github.com/oldcompcz/piskworks).
